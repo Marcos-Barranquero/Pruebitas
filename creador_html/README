@@ -1,1 +1,2 @@
-Probando.
+A partir de un template.html , rellena los datos (marcados como {nombre_del_dato}) 
+en el html con los pasados como argumento en la función crear_html.py
